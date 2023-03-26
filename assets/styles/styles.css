@@ -123,6 +123,7 @@ background-color: rgba(177, 34, 77, 0.842);
 .form-busqueda input,
  .form-busqueda button{
     height: 100%;
+    color: #682686;
  }
 }
 @media(min-width:0px) and (max-width:270px){
